@@ -36,3 +36,4 @@ class Sim:
             plt.show()
         else:
             plt.savefig(destination)
+
